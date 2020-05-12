@@ -1,0 +1,76 @@
+body,
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body{
+    padding-top:100px;
+}
+.navbar-default
+{
+    background-color: white;
+}
+.
+a:hover
+{
+    color:red;
+}
+@media screen and (max-width:740px)
+{
+    #container1
+    {
+        width:100%;
+    }
+    #left-column
+    {
+        width:100%;
+    }
+    #right-column
+    {
+        width=100%;
+    }
+    .test
+    {
+        margin-bottom: 10px;
+        width:100%;
+    }
+}
+
+.test
+{
+    float:left;
+    background-color: lightgray;
+}
+.slider
+{
+    width:1440px;
+    height:400px;
+    overflow: hidden;
+    
+}
+.slides
+{
+    display:block;
+    width:15000px;
+    height:400px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.slide
+{
+    float: left;
+    height: 400px;
+    width:1400px;
+
+}
+
+
+
+
+
+
+
+
+
